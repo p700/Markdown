@@ -72,4 +72,4 @@
 <img src="http://p700.cn/c/1.gif" width="130" /> <br>
 <a href="#readme">回到顶部</a> <br>
 <a href="#user-content-daima">去往代码块</a> <br>
-表情 :bowtie
+表情 :bowtie:&nbsp;&nbsp;:smile:&nbsp;&nbsp;<a href="./emoji.md">emoji表情文件</a>
